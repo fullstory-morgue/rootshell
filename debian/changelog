@@ -1,0 +1,36 @@
+rootshell-kanotix (0.5.5) unstable; urgency=low
+
+  * overhaul packaging.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 18:19:47 +0200
+
+rootshell-kanotix (0.5.4) unstable; urgency=low
+
+  * switch to kanotix-su
+  * improve packaging.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 31 Mar 2005 15:03:56 +0200
+
+rootshell-kanotix (0.5-3) unstable; urgency=low
+
+  * remove legacy gnome menu entries. 
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 31 Jan 2005 01:26:44 +0100
+
+rootshell-kanotix (0.5-2) unstable; urgency=low
+
+  * Fixed for Kanotix XDG compatibilty.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 12 Dec 2004 22:24:40 +0100
+
+rootshell-knoppix (0.5-2) unstable; urgency=low
+
+  * Added spanish message by Sergio Gonzalez <sergio.gonzalez@hispalinux.es>, Luis Llorente <luis.llorente@hispalinux.es>
+
+ -- root <knopper@linuxtag.net>  Fri,  6 Dec 2002 19:33:10 +0100
+
+rootshell-knoppix (0.5-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Klaus Knopper <knoppix@knopper.net>  Mon,  4 Jun 2001 00:24:42 +0200
