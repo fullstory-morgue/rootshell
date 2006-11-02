@@ -1,8 +1,9 @@
 rootshell-kanotix (0.5.7) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * fix lintian errors.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 03:19:42 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  2 Nov 2006 14:05:27 +0100
 
 rootshell-kanotix (0.5.6) unstable; urgency=low
 
@@ -41,7 +42,7 @@ rootshell-knoppix (0.5-2) unstable; urgency=low
 
   * Added spanish message by Sergio Gonzalez <sergio.gonzalez@hispalinux.es>, Luis Llorente <luis.llorente@hispalinux.es>
 
- -- root <knopper@linuxtag.net>  Fri,  6 Dec 2002 19:33:10 +0100
+ -- Klaus Knopper <knopper@linuxtag.net>  Fri,  6 Dec 2002 19:33:10 +0100
 
 rootshell-knoppix (0.5-1) unstable; urgency=low
 
