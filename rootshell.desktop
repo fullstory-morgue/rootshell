@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=kanotix-su rxvt -bg black -fg green -cr red -ls -e /bin/bash
+Exec=kanotix-su x-terminal-emulator  -e /bin/bash --login
 Icon=rootshell
 Name=Root Shell
 Name[es]=Consola de root
