@@ -1,8 +1,10 @@
-rootshell-kanotix (0.5.8) UNRELEASED; urgency=low
+rootshell (0.5.8) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 16 Nov 2006 22:59:17 +0100
+  * Initial version for sidux
+
+ -- Joaquim Boura <x-un-i@sidux.com>  Sat,  2 Dec 2006 15:19:26 +0100
 
 rootshell-kanotix (0.5.7) unstable; urgency=low
 

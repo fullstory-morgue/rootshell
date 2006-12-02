@@ -1,12 +1,13 @@
-Source: rootshell-kanotix
+Source: rootshell
 Section: admin
 Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs (>= 0.4.23-1.1), debhelper (>= 5.0.0)
 Standards-Version: 3.7.2
 
-Package: rootshell-kanotix
+Package: rootshell
 Architecture: all
-Depends: rxvt, kanotix-su, kanotix-menu, xterm | x-terminal-emulator
+Depends:  su-me, sidux-menu, xterm | x-terminal-emulator
+Conflicts: rootshell-kanotix
 Description: start a Root Shell
  Menu entry for starting a Root Shell
