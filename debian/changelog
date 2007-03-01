@@ -1,8 +1,9 @@
-rootshell (0.5.9) UNRELEASED; urgency=low
+rootshell (0.5.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * rootshell-kanotix never existed in sidux or debian, don't conlfict with
+    it.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 02:41:02 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  1 Mar 2007 17:50:01 +0100
 
 rootshell (0.5.8) unstable; urgency=low
 
