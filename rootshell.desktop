@@ -1,6 +1,11 @@
 [Desktop Entry]
+Encoding=UTF-8
+Type=Application
+
 Exec=su-me x-terminal-emulator -e /bin/bash --login
+
 Icon=rootshell
+
 Name=Root Shell
 Name[es]=Consola de root
-Type=Application
+Categories=sidux;

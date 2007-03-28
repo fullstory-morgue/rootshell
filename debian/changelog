@@ -1,8 +1,12 @@
 rootshell (0.5.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  1 Mar 2007 17:52:11 +0100
+  [ Joaquim Boura ]
+  * moving to xdg-menus
+
+ -- Joaquim Boura <x-un-i@sidux.com>  Wed, 28 Mar 2007 22:47:54 +0200
 
 rootshell (0.5.9) unstable; urgency=low
 
