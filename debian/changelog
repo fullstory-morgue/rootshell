@@ -5,8 +5,9 @@ rootshell (0.5.10) UNRELEASED; urgency=low
 
   [ Joaquim Boura ]
   * moving to xdg-menus
+  * using sidux-xdg in depends
 
- -- Joaquim Boura <x-un-i@sidux.com>  Wed, 28 Mar 2007 22:47:54 +0200
+ -- Joaquim Boura <x-un-i@sidux.com>  Fri, 30 Mar 2007 14:42:07 +0200
 
 rootshell (0.5.9) unstable; urgency=low
 
