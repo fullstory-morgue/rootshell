@@ -1,8 +1,12 @@
 rootshell (0.5.11) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 31 Mar 2007 04:24:31 +0200
+  [ Joaquim Boura ]
+  * new icon sidux-terminal
+
+ -- Joaquim Boura <x-un-i@sidux.com>  Sun, 29 Apr 2007 21:04:57 +0200
 
 rootshell (0.5.10) unstable; urgency=low
 
