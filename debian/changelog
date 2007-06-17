@@ -1,3 +1,9 @@
+rootshell (0.5.13) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 Jun 2007 16:08:34 +0200
+
 rootshell (0.5.12) unstable; urgency=low
 
   * Add debian menu entry. Build-Depend on imagemagick.
