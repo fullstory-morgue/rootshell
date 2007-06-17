@@ -1,0 +1,7 @@
+?package(rootshell):needs="text" \
+	section="Apps/System" \
+	hints="sidux,Config" \
+	title="Root Shell" \
+	icon32x32="/usr/share/pixmaps/rootshell.xpm" \
+	icon16x16="/usr/share/pixmaps/rootshell-16.xpm" \
+	command="su-to-root -c /bin/login -f root"
