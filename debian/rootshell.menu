@@ -1,5 +1,5 @@
 ?package(rootshell):needs="text" \
-	section="Apps/System" \
+	section="Apps/Shells" \
 	hints="sidux,Config" \
 	title="Root Shell" \
 	icon32x32="/usr/share/pixmaps/rootshell.xpm" \
