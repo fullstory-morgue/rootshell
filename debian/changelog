@@ -1,4 +1,4 @@
-rootshell (0.5.13) UNRELEASED; urgency=low
+rootshell (0.5.13) unstable; urgency=low
 
   * rootshell.desktop: improve x-terminal-emulator usage with su-me.
   * debian/rootshell.menu: use su-me.
