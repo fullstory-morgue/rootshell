@@ -1,8 +1,9 @@
-rootshell (0.5.14) UNRELEASED; urgency=low
+rootshell (0.5.14) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * revert previous change regarding su-me behaviour, unfortunately it just
+    doesn't work.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 18 Jun 2007 17:27:19 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 19 Jun 2007 19:11:25 +0200
 
 rootshell (0.5.13) unstable; urgency=low
 

@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Type=Application
 
-Exec=x-terminal-emulator -e su-me /bin/login -f root
+Exec=su-me x-terminal-emulator -e /bin/login -f root
 
 Icon=sidux-terminal
 
