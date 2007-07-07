@@ -1,3 +1,9 @@
+rootshell (0.5.16) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 07 Jul 2007 15:42:21 +0200
+
 rootshell (0.5.15) unstable; urgency=low
 
   * fix debian menu.
