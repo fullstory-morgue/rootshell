@@ -1,4 +1,5 @@
-?package(rootshell):needs="text" \
+?package(rootshell): \
+	needs="X11" \
 	section="Apps/Shells" \
 	hints="sidux,Config" \
 	title="Root Shell" \
