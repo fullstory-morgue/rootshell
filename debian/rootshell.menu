@@ -1,6 +1,6 @@
 ?package(rootshell): \
 	needs="X11" \
-	section="Apps/Shells" \
+	section="Applications/Shells" \
 	hints="sidux,Config" \
 	title="Root Shell" \
 	icon32x32="/usr/share/pixmaps/rootshell.xpm" \
