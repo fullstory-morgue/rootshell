@@ -7,5 +7,7 @@ Exec=su-me x-terminal-emulator -e /bin/login -f root
 Icon=sidux-terminal
 
 Name=Root Shell
+Name[ru]=Консоль суперпользователя
 Name[es]=Consola de root
+Name[pt]=Terminal de superutilizador
 Categories=sidux;
