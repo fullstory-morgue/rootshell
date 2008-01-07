@@ -2,7 +2,8 @@
 Encoding=UTF-8
 Type=Application
 
-Exec=su-me x-terminal-emulator -e /bin/login -f root
+Exec=su-to-root -c /bin/bash
+Terminal=yes
 
 Icon=sidux-terminal
 
@@ -10,4 +11,4 @@ Name=Root Shell
 Name[ru]=Консоль суперпользователя
 Name[es]=Consola de root
 Name[pt]=Terminal de superutilizador
-Categories=sidux;
+Categories=System;TerminalEmulator;

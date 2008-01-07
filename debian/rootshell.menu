@@ -1,8 +1,8 @@
 ?package(rootshell): \
-	needs="X11" \
+	needs="text" \
 	section="Applications/Shells" \
 	hints="sidux,Config" \
 	title="Root Shell" \
 	icon32x32="/usr/share/pixmaps/rootshell.xpm" \
 	icon16x16="/usr/share/pixmaps/rootshell-16.xpm" \
-	command="su-me /bin/login -f root"
+	command="su-to-root -c /bin/bash"
