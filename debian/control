@@ -9,6 +9,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/rootshell/trunk/
 
 Package: rootshell
 Architecture: all
-Depends:  menu, xterm | x-terminal-emulator
+Depends: menu, xterm | x-terminal-emulator
+Suggests: konsole | gksu
 Description: start a Root Shell
  Menu entry for starting a Root Shell

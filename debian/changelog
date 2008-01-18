@@ -1,8 +1,10 @@
-rootshell (0.6.1) UNRELEASED; urgency=low
+rootshell (0.6.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * don't show XDG desktop entry in KDE and gnome, konsole or gksu provide
+    their own ways to spawn a root console.
+  * Suggest konsole | gksu as "better" alternatives.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 07 Jan 2008 20:45:43 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 18 Jan 2008 17:42:05 +0100
 
 rootshell (0.6.0) unstable; urgency=low
 
