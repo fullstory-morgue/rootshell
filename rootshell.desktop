@@ -12,4 +12,4 @@ Name[ru]=Консоль суперпользователя
 Name[es]=Consola de root
 Name[pt]=Terminal de superutilizador
 Categories=System;TerminalEmulator;
-NotShowIn=KDE;GNOME;
+NotShowIn=KDE;GNOME;XFCE;
