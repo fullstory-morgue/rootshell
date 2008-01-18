@@ -1,9 +1,11 @@
-rootshell (0.6.2) UNRELEASED; urgency=low
+rootshell (0.6.2) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE, the functionality is present in all major desktop
+    environments - and even where it isn't, sudo su works on any shell.
   * gksu also shows in xfce4, so we don't need to be there as well.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 18 Jan 2008 19:08:31 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 18 Jan 2008 19:09:07 +0100
 
 rootshell (0.6.1) unstable; urgency=low
 
